@@ -12,7 +12,7 @@
 |-------|--------|
 | API | https://jsonplaceholder.typicode.com |
 | Type | Public REST API — JSON |
-| Tool | Postman (Future Interns — API Security Task 3) |
+| Tool | Postman ( API Security Task 3) |
 | Date | 2 May 2026 |
 | Scope | Read-only — no exploitation |
 
