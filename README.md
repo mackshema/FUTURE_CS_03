@@ -1,5 +1,5 @@
 #  API Security Risk Analysis Report
-### Future Interns Cybersecurity Task 3 (2026)
+### Cybersecurity Task 3 (2026)
 
 ![Type](https://img.shields.io/badge/Type-API%20Security%20Audit-blue)
 ![Target](https://img.shields.io/badge/Target-JSONPlaceholder-teal)
@@ -35,4 +35,4 @@
 > No exploitation attempted. Educational use only.
 
 ##  Analyst
-**Mack (Siva Sanjay Muthu T)** — Future Interns 2026
+** Siva Sanjay Muthu T ** — 2026
